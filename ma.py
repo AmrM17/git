@@ -1,2 +1,2 @@
-n = 10
-print(n)
+k = 10
+print(k)
